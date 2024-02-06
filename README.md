@@ -4,14 +4,14 @@ A simple wrapper for dereuromark/MediaEmbed to generate embed HTML for popular m
 
 ## Installation
 ```bash
-composer require merujan99/laravel-video-embed:dev-master
+composer require godscodes/laravel-video-embed:dev-master
 ```
 
 OR
 
 ```json
 "require": {
-    "merujan99/laravel-video-embed": "dev-master",
+    "godscodes/laravel-video-embed": "dev-master",
 },
 ```
 
